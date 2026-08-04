@@ -18,11 +18,11 @@
 | Project | Description | Tech Stack |
 |---|---|---|
 | 🎙️ **AI Voice Agent** | Automated customer support with real-time voice conversations | Retell AI · FastAPI · OpenAI · Gemini · MongoDB |
-| 🏫 **AI Smart Attendance** |  face recognition based attendance system |  YOLOv8 · FastAPI · React |
+| 🏫 **AI Smart Attendance** |  face recognition based attendance system |  · Scrfd 10g · Resnet · FastAPI · React · Mongodb |
 | 🔥 **Fire & Smoke Detection** | Real-time fire detection using object detection | YOLOv8 · FastAPI · React |
 | 🐑 **Livestock Monitoring** | Animal tracking and counting in video streams | YOLOv11 · ByteTrack · ReID · FastAPI |
 | 👄 **Lip Reading** | Speech recognition from lip movements using deep learning | TensorFlow · LipNet · GRID Dataset |
-| 📣 **AI Market Agent** | Automated marketing content and social media publishing | FastAPI · GPT · Meta Graph API · React |
+| 📣 **AI Market Agent** | Automated marketing content and social media publishing | FastAPI · GPT · Meta Graph API · React · MongoDB |
 
 ---
 
