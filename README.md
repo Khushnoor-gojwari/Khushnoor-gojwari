@@ -9,7 +9,7 @@
 - 🤖 Building AI-powered applications with LLMs, RAG, and Voice Agents
 - 🎯 Passionate about solving real-world problems using AI
 - 🌱 Currently exploring Multi-Agent AI and MCP integrations
-- 📍 Based in India | Open to remote opportunities
+- 📍 Based in India | Open to opportunities
 
 ---
 
