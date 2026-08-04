@@ -1,4 +1,6 @@
-## Hi there 👋
+👋 Hi, I'm Khuram Farooq
+
+AI Engineer | Full Stack Developer | Computer Vision | LLM | RAG | FastAPI
 
 <!--
 **Khushnoor-gojwari/Khushnoor-gojwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
