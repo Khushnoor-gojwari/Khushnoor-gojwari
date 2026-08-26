@@ -71,6 +71,7 @@
 ## 📊 GitHub Stats
 
 ![Khushnoor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khushnoor-gojwari&show_icons=true&theme=tokyonight&hide_border=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khushnoor-gojwari&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
