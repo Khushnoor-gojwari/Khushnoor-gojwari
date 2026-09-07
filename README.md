@@ -23,7 +23,7 @@
 | 🐑 **Livestock Monitoring** | Animal tracking and counting in video streams | YOLOv11 · ByteTrack · ReID · FastAPI |
 | 👄 **Lip Reading** | Speech recognition from lip movements using deep learning | TensorFlow · LipNet · GRID Dataset |
 | 📣 **AI Market Agent** | Automated marketing content and social media publishing | FastAPI · GPT · Meta Graph API · React · MongoDB |
-| 📣 **Fall Detction** | Real-time Fall detection avoiding sitting ,prayer positions  | Yolov8 + posing and Frame history window   |
+| 📣 **Fall Detction** | Real-time Fall detection avoiding sitting and prayer positions  | Yolov8 + posing and Frame history window   |
 
 
 ---
