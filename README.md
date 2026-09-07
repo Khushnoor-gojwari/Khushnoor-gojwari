@@ -8,7 +8,7 @@
 
 - 🤖 Building AI-powered applications with LLMs, RAG, and Voice Agents
 - 🎯 Passionate about solving real-world problems using AI
-- 🌱 Currently exploring Multi-Agent AI and MCP integrations
+- 🌱 Currently exploring Cctv based Real time detections using Opencv ,Yolov8 models , Multi-Agent AI and MCP integrations
 - 📍 Based in India | Open to opportunities
 
 ---
