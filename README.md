@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Khushnoor Farooq
 
-**AI Engineer · Full Stack Developer · Computer Vision · LLMs · RAG · FastAPI · React.js**
+**AI Engineer · Full Stack Developer · Computer Vision · LLMs · RAG · FastAPI · React.js · MongoDB**
 
 ---
 
