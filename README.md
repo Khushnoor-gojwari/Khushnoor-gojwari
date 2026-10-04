@@ -25,7 +25,7 @@
 | 📣 **AI Market Agent** | Automated marketing content and social media publishing | FastAPI · GPT · Meta Graph API · React · MongoDB |
 | 📣 **Fall Detection** | Real-time Fall detection avoiding sitting and prayer positions  | Yolov8 + posing and Frame history window   |
 | 🧗 **Wall Climb Detection** | Real-time Fence or wall climb detection using a line .  | Yolov8 + posing and Frame history window   |
-| 🤼 **Fight Detection ** | Real-time Fight detection using person + pose detection .  | Yolov8 + posing and Frame history window   |
+| 🤼 **Fight Detection** | Real-time Fight detection using person + pose detection .  | Yolov8 + posing and Frame history window   |
 
 
 ---
